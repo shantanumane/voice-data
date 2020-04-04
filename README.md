@@ -47,7 +47,7 @@ Steps to run this project.
               1.Install the library tkinter for windows use command - pip install tk .
 							For linux use command- apt-get install python-tk.
 							2.Install another library speech_recognition for windows use 
-							command - pip install speech_recognition  .
+							command - pip install SpeechRecognition  .
 							3.pip install gTTS  .
 							4.pip install secure-smtplib  .
 							5.pip install pandas.
